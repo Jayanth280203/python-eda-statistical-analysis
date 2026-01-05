@@ -33,11 +33,14 @@ This project focuses on performing exploratory data analysis and applying statis
 - `insights_report.txt` – Summary of analytical findings  
 - `employee_attrition.csv` – Dataset used for analysis
 
-🧠 *Author*
+## 🧠 *Author*
 
 Jayanth R
+
 Data Science Postgraduate | Data Analyst | Python Enthusiast
+
 📍 Thanjavur, Tamil Nadu, India
+
 📧 jayanthr239@gmail.com
 
 ⭐ If you found this project useful, don’t forget to star the repository!
