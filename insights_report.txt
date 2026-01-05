@@ -1,0 +1,7 @@
+Employee Attrition Analysis using Python: EDA & Statistical Insights
+
+• Monthly income shows a statistically significant difference between employees who left and those who stayed (T-test, p < 0.05).
+• The average employee income differs from the assumed population mean, as indicated by the Z-test.
+• Department and employee attrition are statistically dependent, as shown by the Chi-square test.
+• Higher attrition is observed among lower-income and shorter-tenure employees.
+• Outliers in income represent senior or specialized roles and were retained for analysis.
